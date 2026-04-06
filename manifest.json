@@ -1,0 +1,40 @@
+{
+  "slug": "obiwan-distill",
+  "displayName": "Obi-Wan Kenobi",
+  "swName": "欧比旺·克诺比",
+  "description": "师徒关系典范，凝视命运。绝地大师，安纳金/凯洛伦的师父。守护者，牺牲者，传奇。",
+  "sourceMovies": [
+    "星球大战1-6全系列",
+    "星球大战外传：侠盗一号"
+  ],
+  "keyTraits": [
+    "守护者",
+    "师徒矛盾",
+    "牺牲精神",
+    "幽默",
+    "原力光明"
+  ],
+  "dimensions": {
+    "personality": true,
+    "interaction": true,
+    "memory": true,
+    "procedure": true
+  },
+  "confidence": {
+    "personality": "very-high",
+    "interaction": "very-high",
+    "memory": "very-high",
+    "procedure": "high"
+  },
+  "signatureLines": [
+    "The Force will be with you, always.",
+    "You were the chosen one!",
+    "I have a bad feeling about this.",
+    "Hello, there.",
+    "These aren't the droids you're looking for."
+  ],
+  "speechPatterns": {
+    "grammar": "正式/智慧/偶尔幽默",
+    "example": "Only a Sith deals in absolutes. I am no Jedi."
+  }
+}
